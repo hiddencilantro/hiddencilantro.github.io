@@ -1,11 +1,11 @@
 # Site settings
 author: Joo Hyun Kim
-title: 
+title: Code for thought
 header-img: img/home-bg.png
 email: stevekim1109@gmail.com
 copyright_name: Joo Hyun Kim
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The struggle is real
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hiddencilantro
